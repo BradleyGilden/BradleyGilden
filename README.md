@@ -23,5 +23,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BradleyGilden" alt="bradleygilden" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=BradleyGilden&theme=solarized-dark" alt="bradleygilden" /></p>
 <p><img align="right" src="https://streak-stats.demolab.com?user=BradleyGilden&theme=solarized-dark" alt="bradleygilden" /></p>
