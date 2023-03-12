@@ -1,4 +1,3 @@
-[![MasterHead](https://img.freepik.com/free-vector/software-developer-typographic-header-idea-programming-coding-system-development-digital-technology-software-developing-company-writing-code-isolated-vector-illustration_613284-1446.jpg?w=900&t=st=1678631956~exp=1678632556~hmac=d41c2aab34070fc81147fc9283c81d1d50343a85b21e79a1a5d3b651cd9b41e5)](https://github.com/BradleyGilden)
 <h1 align="center">Hi 👋, I'm Bradley Gilden</h1>
 <h3 align="center">Passionate African Full Stack Developer fueled by Curiosity</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47qa5phfx97v24o0pvlxw614ymyq575e6c1xlppmpf&rid=giphy.gif&ct=g">
