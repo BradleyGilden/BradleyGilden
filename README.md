@@ -37,6 +37,7 @@
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BradleyGilden" alt="bradleygilden" /></p>
+<p><img align="left" src="https://github-readme-stats-bradleygilden.vercel.app/api/top-langs/?username=BradleyGilden" alt="bradleygilden" /></p>
 
 <p><img align="right" src="https://streak-stats.demolab.com?user=BradleyGilden&theme=solarized-dark" alt="bradleygilden" /></p>
+
