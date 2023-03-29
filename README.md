@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bradley Gilden</h1>
 <h3 align="center">Passionate Full Stack Developer fueled by Curiosity</h3>
-<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47qa5phfx97v24o0pvlxw614ymyq575e6c1xlppmpf&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding" width="300" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47qa5phfx97v24o0pvlxw614ymyq575e6c1xlppmpf&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bradleygilden&label=Profile%20views&color=0e75b6&style=flat" alt="bradleygilden" /> </p>
 
@@ -11,15 +11,15 @@
 - 👨‍💻 All of my projects are available at [https://github.com/BradleyGilden](https://github.com/BradleyGilden)
 
 - ⚡ Fun fact **Sometimes you find the solution to a problem, realising you created the problem in the first place**
-<br><br><br>
+
+<br><br>
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/ComaScript" target="blank"><img align="center"  alt="Twitter Follow" src="https://img.shields.io/badge/Twitter@ComaScript-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
 <a href="https://comascript.hashnode.dev/" target="blank"><img align="center" alt="Custom badge" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a>
 <a href="https://linkedin.com/in/bradley-gilden" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="bradley gilden"/></a>
 </p>
-
-
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="left"> 
