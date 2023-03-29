@@ -13,9 +13,10 @@
 - ⚡ Fun fact **Sometimes you find the solution to a problem, realising you created the problem in the first place**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/IonizedComa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ionizedcoma" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/bradley-gilden" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bradley gilden" height="30" width="40" /></a>
+<p align="center">
+<a href="https://twitter.com/ComaScript" target="blank"><img align="center"  alt="Twitter Follow" src="https://img.shields.io/badge/Twitter@ComaScript-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
+<a href="https://comascript.hashnode.dev/" target="blank"><img align="center" alt="Custom badge" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a>
+<a href="https://linkedin.com/in/bradley-gilden" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="bradley gilden"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
