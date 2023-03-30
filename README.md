@@ -40,7 +40,10 @@
 
 <br>
 
-<p><img align="left" src="https://github-readme-stats-bradleygilden.vercel.app/api/top-langs/?username=BradleyGilden" alt="bradleygilden" /></p>
+<div style="display: flex; flex-wrap: wrap;">
+<img align="center" style="width:250px;height:120px;Padding:10px" src="https://github-readme-stats-bradleygilden.vercel.app/api/top-langs/?username=BradleyGilden&layout=compact&langs_count=10&theme=nightowl" alt="bradleygilden" />
 
-<p><img align="center" src="https://streak-stats.demolab.com?user=BradleyGilden&theme=solarized-dark" alt="bradleygilden" /></p>
+<img style="width:250px; height:120px; Padding:10px;" align="center" src="https://streak-stats.demolab.com?user=BradleyGilden&theme=nightowl" alt="bradleygilden" /> 
+<img style="width:250px; height:120px;Padding:10px" align="center" src="https://github-readme-stats.vercel.app/api?username=BradleyGilden&count_private=true&theme=nightowl" alt="bradleygilden" />
+</div>
 
