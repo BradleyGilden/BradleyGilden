@@ -41,9 +41,11 @@
 <br>
 <h3 align="center">GitHub Stats:</h3>
 <div style="display: flex; flex-wrap: wrap;">
-<img align="center" style="width:300px;height:120px;Padding:30px" src="https://github-readme-stats-bradleygilden.vercel.app/api/top-langs/?username=BradleyGilden&layout=compact&langs_count=10&theme=nightowl" alt="bradleygilden" />
 
-<img style="width:300px; height:120px; Padding:30px;" align="center" src="https://streak-stats.demolab.com?user=BradleyGilden&theme=nightowl" alt="bradleygilden" /> 
-<img style="width:300px; height:120px;Padding:30px" align="center" src="https://github-readme-stats.vercel.app/api?username=BradleyGilden&count_private=true&theme=nightowl" alt="bradleygilden" />
+<img align="center" style="width:270px;height:120px;Padding:30px" src="https://github-readme-stats-bradleygilden.vercel.app/api/top-langs/?username=BradleyGilden&layout=compact&langs_count=10&theme=nightowl" alt="bradleygilden" />
+
+<img style="width:270px; height:120px; Padding:30px;" align="center" src="https://streak-stats.demolab.com?user=BradleyGilden&theme=nightowl" alt="bradleygilden" /> 
+
+<img style="width:270px; height:120px;Padding:30px" align="center" src="https://github-readme-stats.vercel.app/api?username=BradleyGilden&count_private=true&theme=nightowl" alt="bradleygilden" />
 </div>
 
