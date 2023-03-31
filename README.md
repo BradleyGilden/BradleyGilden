@@ -12,7 +12,11 @@
 
 - ⚡ Fun fact **Sometimes you find the solution to a problem, realising you created the problem in the first place**
 
-<br><br>
+<br>
+
+Now playing :headphones::notes:
+
+[![Spotify](https://spotify-now-playing-bradleygilden.vercel.app/api/spotify)](https://open.spotify.com/user/ComaScript)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -48,4 +52,3 @@
 
 <img style="width:270px; height:120px;Padding:30px" align="center" src="https://github-readme-stats.vercel.app/api?username=BradleyGilden&count_private=true&theme=nightowl" alt="bradleygilden" />
 </div>
-
