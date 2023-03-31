@@ -44,7 +44,7 @@ Now playing :headphones::notes:
 
 <br>
 <h3 align="center">GitHub Stats:</h3>
-<div style="display: flex; flex-wrap: wrap;">
+<div style="display: flex;">
 
 <img align="right" style="width:270px;;Padding:30px" src="https://github-readme-stats-bradleygilden.vercel.app/api/top-langs/?username=BradleyGilden&langs_count=10&theme=nightowl" alt="bradleygilden" />
 
