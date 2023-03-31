@@ -50,5 +50,5 @@ Now playing :headphones::notes:
 
 <img style="width:270x; Padding:30px;" align="right" src="https://streak-stats.demolab.com?user=BradleyGilden&theme=nightowl" alt="bradleygilden" /> 
 
-<img style="width:600px;Padding:30px" align="center" src="https://github-readme-stats.vercel.app/api?username=BradleyGilden&count_private=true&theme=nightowl" alt="bradleygilden" />
+<img style="width:500px;Padding:30px" align="right" src="https://github-readme-stats.vercel.app/api?username=BradleyGilden&count_private=true&theme=nightowl" alt="bradleygilden" />
 </div>
