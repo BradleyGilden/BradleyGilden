@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Bradley Gilden</h1>
+<h1 align="center">Hi <img src="wave.gif"
+         alt="Waving hand animated gif"
+         height="45"
+         width="45"/>, I'm Bradley Gilden</h1>
 <h3 align="center">Passionate Full Stack Developer fueled by Curiosity</h3>
 <img align="right" alt="Coding" width="300" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47qa5phfx97v24o0pvlxw614ymyq575e6c1xlppmpf&rid=giphy.gif&ct=g">
 
