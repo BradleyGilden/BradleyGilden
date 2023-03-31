@@ -46,7 +46,7 @@ Now playing :headphones::notes:
 <h3 align="center">GitHub Stats:</h3>
 <div style="display: flex; flex-wrap: wrap;">
 
-<img align="center" style="width:270px;;Padding:30px" src="https://github-readme-stats-bradleygilden.vercel.app/api/top-langs/?username=BradleyGilden&langs_count=10&theme=nightowl" alt="bradleygilden" />
+<img align="right" style="width:270px;;Padding:30px" src="https://github-readme-stats-bradleygilden.vercel.app/api/top-langs/?username=BradleyGilden&langs_count=10&theme=nightowl" alt="bradleygilden" />
 
 <img style="width:270x; Padding:30px;" align="right" src="https://streak-stats.demolab.com?user=BradleyGilden&theme=nightowl" alt="bradleygilden" /> 
 
