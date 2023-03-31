@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **C language**
 
-- 👨‍💻 All of my projects are available at [https://github.com/BradleyGilden](https://github.com/BradleyGilden)
+- :mailbox_with_mail: contact me at **bradleygilden@gmail.com**
 
 - ⚡ Fun fact **Sometimes you find the solution to a problem, realising you created the problem in the first place**
 
