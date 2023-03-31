@@ -39,16 +39,20 @@ Now playing :headphones::notes:
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite"/> </a> 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="figma"/> </a> 
 <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white" alt="qt"/> </a> 
-
 </p>
 
-<br>
 <h3 align="center">GitHub Stats:</h3>
-<div style="display: flex;">
+<table>
+  <tr>
+    <td>
+       <a href="https://github.com/BradleyGilden"><img src="https://github-readme-stats.vercel.app/api?username=BradleyGilden&count_private=true&theme=nightowl" alt="bradleygilden" /></a>
+    </td>
+    <td>
+       <a href="https://github.com/BradleyGilden"><img src="https://streak-stats.demolab.com?user=BradleyGilden&theme=nightowl" alt="bradleygilden" /> </a>
+    </td>
+    <td>
+      <a href="https://github.com/BradleyGilden"><img src="https://github-readme-stats-bradleygilden.vercel.app/api/top-langs/?username=BradleyGilden&langs_count=10&layout=compact&theme=nightowl" alt="bradleygilden" /></a>
+    </td>
+  </tr>
+</table>
 
-<img align="right" style="width:270px;;Padding:30px" src="https://github-readme-stats-bradleygilden.vercel.app/api/top-langs/?username=BradleyGilden&langs_count=10&theme=nightowl" alt="bradleygilden" />
-
-<img style="width:270x; Padding:30px;" align="right" src="https://streak-stats.demolab.com?user=BradleyGilden&theme=nightowl" alt="bradleygilden" /> 
-
-<img style="width:500px;Padding:30px" align="right" src="https://github-readme-stats.vercel.app/api?username=BradleyGilden&count_private=true&theme=nightowl" alt="bradleygilden" />
-</div>
