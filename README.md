@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [low level design using C](https://github.com/BradleyGilden/alx-low_level_programming)
 
-- 🌱 I’m currently learning **C language**
+- 🌱 I’m currently learning **Python**
 
 - :mailbox_with_mail: contact me at **bradleygilden@gmail.com**
 
