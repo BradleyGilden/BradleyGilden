@@ -48,13 +48,13 @@ Now playing :headphones::notes:
 <table>
   <tr>
     <td>
-       <a href="https://github.com/BradleyGilden"><img src="https://github-readme-stats-bradleygilden.vercel.app/api?username=BradleyGilden&count_private=true&theme=nightowl" alt="bradleygilden" /></a>
+       <a href="https://github.com/BradleyGilden"><img src="https://github-readme-stats-git-master-bradleygilden.vercel.app/api?username=BradleyGilden&count_private=true&theme=nightowl" alt="bradleygilden" /></a>
     </td>
     <td>
        <a href="https://github.com/BradleyGilden"><img src="https://streak-stats.demolab.com?user=BradleyGilden&theme=nightowl" alt="bradleygilden" /> </a>
     </td>
     <td>
-      <a href="https://github.com/BradleyGilden"><img src="https://github-readme-stats-bradleygilden.vercel.app/api/top-langs/?username=BradleyGilden&langs_count=8&layout=compact&theme=nightowl" alt="bradleygilden" /></a>
+      <a href="https://github.com/BradleyGilden"><img src="https://github-readme-stats-git-master-bradleygilden.vercel.app/api/top-langs/?username=BradleyGilden&langs_count=8&layout=compact&theme=nightowl" alt="bradleygilden" /></a>
     </td>
   </tr>
 </table>
