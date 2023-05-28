@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bradleygilden&label=Profile%20views&color=0e75b6&style=flat" alt="bradleygilden" /> </p>
 
-- 🔭 I’m currently working on [low level design using C](https://github.com/BradleyGilden/alx-low_level_programming)
+- 🔭 I’m currently working on [designing a shell in C](https://github.com/BradleyGilden/simple_shell)
 
 - 🌱 I’m currently learning **Python**
 
