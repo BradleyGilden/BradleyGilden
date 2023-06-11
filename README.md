@@ -19,7 +19,7 @@
 
 Now playing :headphones::notes:
 
-[![Spotify](https://spotify-now-playing-bradleygilden.vercel.app/api/spotify-playing)](https://open.spotify.com/user/USER_NAME)
+[![Spotify](https://spotify-now-playing-bradleygilden.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
