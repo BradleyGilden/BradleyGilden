@@ -1,4 +1,5 @@
-<img src="mybanner.png" align="center">
+<img src="mybanner.png">
+
 
 <h1 align="center">Hi <img src="wave.gif"
          alt="Waving hand animated gif"
