@@ -1,3 +1,5 @@
+<img src="mybanner.png" align="center">
+
 <h1 align="center">Hi <img src="wave.gif"
          alt="Waving hand animated gif"
          height="45"
@@ -17,9 +19,10 @@
 
 <br>
 
-Now playing :headphones::notes:
+### Now playing :headphones::notes:
 
-[![Spotify](https://spotify-now-playing-bradleygilden.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+[![Spotify](https://spotify-now-playing-bradleygilden.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME) 
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -58,4 +61,3 @@ Now playing :headphones::notes:
     </td>
   </tr>
 </table>
-
