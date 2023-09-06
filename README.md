@@ -54,8 +54,7 @@
 
 <h3 align="center">GitHub Stats:</h3>
 
-<p align="center">
-<table style="width: 700">
+<table>
   <tr>
     <td>
        <a href="https://github.com/BradleyGilden"><img src="https://streak-stats.demolab.com?user=BradleyGilden&theme=nightowl" alt="bradleygilden" /> </a>
@@ -70,4 +69,3 @@
   <tr>
   </tr>
 </table>
-</p>
