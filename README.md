@@ -63,7 +63,7 @@
       <a href="https://github.com/BradleyGilden"><img src="https://github-readme-stats-git-master-bradleygilden.vercel.app/api/top-langs/?username=BradleyGilden&langs_count=12&layout=donut-vertical&theme=nightowl" alt="bradleygilden" /></a>
     </td>
   </tr>
-    <td align="center">
+    <td width=450 align="center">
        <a href="https://github.com/BradleyGilden"><img src="https://github-readme-stats-git-master-bradleygilden.vercel.app/api?username=BradleyGilden&count_private=true&theme=nightowl" alt="bradleygilden" /></a>
     </td>
   <tr>
