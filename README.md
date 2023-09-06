@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on [designing a shell in C](https://github.com/BradleyGilden/simple_shell)
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **JavaScript**
 
 - :mailbox_with_mail: contact me at **bradleygilden@gmail.com**
 
@@ -52,13 +52,15 @@
 <table>
   <tr>
     <td>
-       <a href="https://github.com/BradleyGilden"><img src="https://github-readme-stats-git-master-bradleygilden.vercel.app/api?username=BradleyGilden&count_private=true&theme=nightowl" alt="bradleygilden" /></a>
-    </td>
-    <td>
        <a href="https://github.com/BradleyGilden"><img src="https://streak-stats.demolab.com?user=BradleyGilden&theme=nightowl" alt="bradleygilden" /> </a>
     </td>
-    <td>
-      <a href="https://github.com/BradleyGilden"><img src="https://github-readme-stats-git-master-bradleygilden.vercel.app/api/top-langs/?username=BradleyGilden&langs_count=8&layout=compact&theme=nightowl" alt="bradleygilden" /></a>
+    <td rowspan=2>
+      <a href="https://github.com/BradleyGilden"><img src="https://github-readme-stats-git-master-bradleygilden.vercel.app/api/top-langs/?username=BradleyGilden&langs_count=20&layout=donut&theme=nightowl" alt="bradleygilden" /></a>
     </td>
+  </tr>
+    <td>
+       <a href="https://github.com/BradleyGilden"><img src="https://github-readme-stats-git-master-bradleygilden.vercel.app/api?username=BradleyGilden&count_private=true&theme=nightowl" alt="bradleygilden" /></a>
+    </td>
+  <tr>
   </tr>
 </table>
