@@ -20,11 +20,6 @@
 
 <br>
 
-### Now playing :headphones::notes:
-
-[![Spotify](https://spotify-now-playing-bradleygilden.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME) 
-
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/ComaScript" target="blank"><img align="center"  alt="Twitter Follow" src="https://img.shields.io/badge/Twitter@ComaScript-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
