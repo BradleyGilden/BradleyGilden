@@ -52,7 +52,7 @@
 <table>
   <tr>
     <td>
-       <a href="https://github.com/BradleyGilden"><img src="https://streak-stats.demolab.com?user=BradleyGilden&theme=nightowl" alt="bradleygilden" /> </a>
+       <a href="https://github.com/BradleyGilden"><img src="https://github-readme-streak-stats-bradleygilden.vercel.app/api?user=BradleyGilden&theme=nightowl" alt="bradleygilden" /> </a>
     </td>
     <td rowspan=2>
       <a href="https://github.com/BradleyGilden"><img src="https://github-readme-stats-git-master-bradleygilden.vercel.app/api/top-langs/?username=BradleyGilden&langs_count=12&layout=donut-vertical&theme=nightowl" alt="bradleygilden" /></a>
