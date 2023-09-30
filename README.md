@@ -18,8 +18,6 @@
 
 - ⚡ Fun fact **Sometimes you find the solution to a problem, realising you created the problem in the first place**
 
-[![GitHub Streak](https://github-readme-streak-stats-bradleygilden.vercel.app?user=BradleyGIlden)](https://git.io/streak-stats)
-
 <br>
 
 <h3 align="center">Connect with me:</h3>
