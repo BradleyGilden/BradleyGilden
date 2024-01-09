@@ -55,7 +55,7 @@
        <a href="https://github.com/BradleyGilden"><img src="https://streak-stats.demolab.com/?user=BradleyGilden&theme=nightowl" alt="bradleygilden" /> </a>
     </td>
     <td rowspan=2 width=260>
-      <a href="https://github.com/BradleyGilden"><img src="https://github-readme-stats-git-master-bradleygilden.vercel.app/api/top-langs/?username=BradleyGilden&langs_count=12&hide=css,html&layout=donut-vertical&theme=nightowl" alt="bradleygilden" /></a>
+      <a href="https://github.com/BradleyGilden"><img src="https://github-readme-stats-git-master-bradleygilden.vercel.app/api/top-langs/?username=BradleyGilden&langs_count=12&size_weight=0.5&count_weight=0.5&layout=donut-vertical&theme=nightowl" alt="bradleygilden" /></a>
     </td>
   </tr>
     <td width=450 align="center">
