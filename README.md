@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on [designing a Weather application ](https://github.com/BradleyGilden/frontend-concepts/tree/main/projects/weather)
 
-- 🌱 I’m currently learning **Nodejs and React**
+- 🌱 I’m currently learning **Frontend Optimization**
 
 - :mailbox_with_mail: contact me at **bradleygilden@gmail.com**
 
