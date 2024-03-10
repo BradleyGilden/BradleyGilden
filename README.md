@@ -10,9 +10,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bradleygilden&label=Profile%20views&color=0e75b6&style=flat" alt="bradleygilden" /> </p>
 
-- 🔭 I’m currently working on [designing a Weather application ](https://github.com/BradleyGilden/frontend-concepts/tree/main/projects/weather)
+- 🔭 I’m currently working on socket-based applications with Socket.io
 
-- 🌱 I’m currently learning **Frontend Optimization**
+- 🌱 I’m currently learning **websockets**
 
 - :mailbox_with_mail: contact me at **bradleygilden@gmail.com**
 
