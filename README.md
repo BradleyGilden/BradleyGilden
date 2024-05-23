@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on socket-based applications with Socket.io
 
-- 🌱 I’m currently learning **websockets**
+- 🌱 I’m currently learning **Web3**
 
 - :mailbox_with_mail: contact me at **bradleygilden@gmail.com**
 
